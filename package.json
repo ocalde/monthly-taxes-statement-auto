@@ -1,0 +1,16 @@
+{
+  "name": "mh-self-declare",
+  "version": "0.0.1",
+  "description": "To perform taxes declaration automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Calderon",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^8.0.0"
+  }
+}
